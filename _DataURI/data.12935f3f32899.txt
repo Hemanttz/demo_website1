@@ -1,0 +1,1 @@
+chrome-extension://fdfcjfoifbjplmificlkdfneafllkgmn/src/contentScripts/highlights/index.js

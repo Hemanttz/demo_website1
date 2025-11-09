@@ -1,0 +1,1 @@
+chrome-extension://fdfcjfoifbjplmificlkdfneafllkgmn/src/contentScripts/utils/errorManager.js
